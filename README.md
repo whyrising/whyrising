@@ -12,6 +12,8 @@
 - 🌱 I’m currently learning Jetpack Compose, Fullstack Web Developement, Kotlin for Cross-Platform Mobile Development
 
 - 💬 Talk to me about Software Design, Android, Kotlin, Java, C#, Xamarin, Open source
+
+- ⚡ Fun fact: I love Drawing
   
 
 <p align="center">
