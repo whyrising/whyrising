@@ -13,11 +13,10 @@
 
 - 💬 Talk to me about Software Design, Android, Kotlin, Java, C#, Xamarin, Open source
   
-  
- 
-<p align="center">
-<a href="https://www.linkedin.com/in/yahya-tinani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yahya-tinani" height="20" 
-</p>
+
+<a href="https://www.linkedin.com/in/yahya-tinani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yahya-tinani" height="20" width="20" /></a>
+<a href = 'https://www.github.com/whyrising'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
 
 <!--
 **whyrising/whyrising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
