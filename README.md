@@ -4,7 +4,7 @@
 ![Profile view](https://komarev.com/ghpvc/?username=whyrising)
   
 </p>
-<div size='20px'> Hi! I'm Yahya. I'm on a mission to elevate my craft as a software engineer.
+<div size='20px'> Hi! My name is Yahya. I'm on a mission to elevate my craft as a software engineer.
 </div>
 
 - 🔭 I’m currently working on My Website, Github Projects
