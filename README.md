@@ -7,8 +7,8 @@
 <div size='20px'> Hi! My name is Yahya. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
   
-  <h2> About Me</h2>
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h2> About Me</h2>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!--
 **whyrising/whyrising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
