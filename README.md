@@ -3,6 +3,10 @@
 
 ![Profile view](https://komarev.com/ghpvc/?username=whyrising)
   
+</p>
+<div size='20px'> Hi! My name is Yahya. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+  
 <!--
 **whyrising/whyrising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
