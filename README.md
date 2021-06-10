@@ -6,8 +6,6 @@
 </p>
 <div size='20px'> Hi! I'm Yahya. I'm on a mission to elevate my craft as a software engineer.
 </div>
-  
-<h2> About Me</h2>
 
 - 🔭 I’m currently working on My Website, Github Projects
 
