@@ -2,6 +2,7 @@
 <p align='center'>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=whyrising.whyrising)
+![Profile view](https://komarev.com/ghpvc/?username=whyrising)
   
 <!--
 **whyrising/whyrising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
