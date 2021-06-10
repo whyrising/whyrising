@@ -8,8 +8,7 @@
 </div>
   
 <h2> About Me</h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-  
+
 - 🔭 I’m currently working on My Website, Github Projects
 
 - 🌱 I’m currently learning Jetpack Compose, Fullstack Web Developement, Kotlin for Cross-Platform Mobile Development, 
