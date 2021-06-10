@@ -4,7 +4,7 @@
 ![Profile view](https://komarev.com/ghpvc/?username=whyrising)
   
 </p>
-<div size='20px'> Hi! I'm Yahya. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! I'm Yahya. I'm on a mission to make
 </div>
   
 <h2> About Me</h2>
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Jetpack Compose, Fullstack Web Developement, Kotlin for Cross-Platform Mobile Development, 
 
-- 💬 Talk to me about Android, Software Design, Kotlin, Java, C#,
+- 💬 Talk to me about Android, Software Design, Kotlin, Java, C#
   
 <!--
 **whyrising/whyrising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
