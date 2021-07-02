@@ -13,7 +13,7 @@
 
 - 💬 Talk to me about Software Design, Android, Kotlin, Java, C#, Xamarin, Open source
 
-- ⚡ Fun fact: I love Drawing
+- ⚡ Fun fact: I draw since I was a kid
   
 
 <p align="center">
