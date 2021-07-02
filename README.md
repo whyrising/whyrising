@@ -2,7 +2,7 @@
 <p align='center'>
 
 ![Profile view](https://komarev.com/ghpvc/?username=whyrising)
-  
+
 </p>
 <div size='20px'> Hi! My name is Yahya. I'm on a mission to elevate my craft as a software engineer.
 </div>
@@ -14,7 +14,8 @@
 - 💬 Talk to me about Software Design, Android, Kotlin, Java, C#, Xamarin, Open source
 
 - ⚡ Fun fact: I draw since I was a kid
-  
+
+  ![](\art\drawing.png)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/yahya-tinani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yahya-tinani" height="20" width="20" /></a>
