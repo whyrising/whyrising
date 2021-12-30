@@ -7,7 +7,7 @@
 <div size='20px'> Hi! My name is Yahya. I'm on a mission to elevate my craft as a software engineer.
 </div>
 
-- 🔭 I’m currently working on My Website, Github Projects
+- 🔭 I’m currently working on Github Projects
 
 - 🌱 I’m currently learning Jetpack Compose, Fullstack Web Developement, Kotlin for Cross-Platform Mobile Development
 
