@@ -7,8 +7,6 @@
 <div size='20px'> Hi! My name is Yahya. I'm on a mission to elevate my craft as a software engineer.
 </div>
 
-- 🔭 I’m currently working on Github Projects
-
 - 💬 Talk to me about Software Design, Android, Kotlin, Java, C#, Xamarin, Open source
 
 - ⚡ Fun fact: I draw since I was a kid
