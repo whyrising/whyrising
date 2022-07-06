@@ -1,4 +1,4 @@
-<h1 align="center"> hello(<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50">) </h1>
+<h1 align="center"> hello(<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">) </h1>
 <p align='center'>
 
 ![Profile view](https://komarev.com/ghpvc/?username=whyrising)
